@@ -7,8 +7,7 @@
 * Website:   <http://base.kevinleary.net>
 * GitHub:    <https://github.com/Kevinlearynet/Base-Theme>
 
-This free software is copyleft licensed under the same terms as WordPress, or,
-at your option, under version 2 of the [GPL license](http://wordpress.org/about/gpl/).
+## Goals
 
 The goal of this project is to provide a solid framework for creating highly customized, business WordPress themes that:
 
@@ -50,3 +49,8 @@ The goal of this project is to provide a solid framework for creating highly cus
 1. Create a set of standard theme options for cross project consistencies such as Google Analytics, Twitter, etc.
 
 Any ideas? Tell me!
+
+## License
+
+This free software is copyleft licensed under the same terms as WordPress, or,
+at your option, under version 2 of the [GPL license](http://wordpress.org/about/gpl/).
