@@ -1,0 +1,62 @@
+/** General form styles */
+textarea, input[type="text"] { 
+	padding:5px;
+	background:#f0f0f0;
+	border:1px solid #ddd;
+	.inner-shadow(1, 1, 2, 0.4);
+	.rounded(5px);
+}
+label {
+	line-height:27px;
+	font-weight:bold;
+}
+select { padding: 5px; }
+option { padding: 0 5px; }
+input[type="submit"], 
+input.submit, 
+input[type="submit"]:visited, 
+input.submit:visited,
+.button {
+	background:#222 url(../images/gradient-overlay.png) repeat-x; 
+	border:none;
+	color:#fff;
+	display:inline-block;
+	text-transform:uppercase;
+	font-size:12px;
+	padding:5px 10px;
+	line-height:normal;
+	font-weight:bold;
+	.rounded(5px);
+	position: relative;
+	cursor: pointer;
+	&.alert {
+		background-color:#8b171b;
+	}
+	&:hover, 
+	&:hover { 
+		background-color:#111; 
+		color:#fff;
+	}
+	&:active,
+	&:active { 
+		top:1px;
+		outline:none;
+	}
+}
+span.required {
+	font-size:15px;
+	font-weight:bold;
+	color:red;
+}
+
+/** Boxed form */
+.boxed-form {
+	padding:15px;
+	.rounded(5px);
+	background:#f0f0f0;
+	border:1px solid #ddd;
+	input[type="text"],
+	textarea {
+		background-color:#fff;
+	}
+}
