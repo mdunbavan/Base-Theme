@@ -1,5 +1,4 @@
-A Starter Theme for Custom WordPress CMS Development
-====================================================
+# A Starter Theme for Custom WordPress CMS Development
 
 * Author:    Kevin Leary (<info@kevinleary.net>)
 * Date:      March, 2012
@@ -20,8 +19,7 @@ The goal of this project is to provide a solid framework for creating highly cus
 * Modular, re-usable and [D.R.Y.](http://en.wikipedia.org/wiki/Don't_repeat_yourself)
 * Optimized for speed and performance
 
-Features
---------
+## Features
 
 * Asynchronous JavaScript loading on demand using [HeadJS](http://headjs.com/)
 * Conditional JavaScript that is only run when it's needed
@@ -34,8 +32,7 @@ Features
 * Configured for threaded comments
 * Pagination function for better navigation on post archive pages
 
-Sites Built Using Base
-----------------------
+## Sites Built Using Base
 
 1. <http://www.openviewpartners.com>
 2. <http://www.madico.com>
@@ -44,15 +41,12 @@ Sites Built Using Base
 4. <http://www.kevinleary.net>
 4. <http://www.bostonworldpartnerships.com>
 
-Contributors
-------------
+## Contributors
 
 * [Fresh Tilled Soil](http://www.freshtilledsoil.com)
 
-To-do
------
+## To-do
 
 1. Create a set of standard theme options for cross project consistencies such as Google Analytics, Twitter, etc.
-1. 
 
 Any ideas? Tell me!
